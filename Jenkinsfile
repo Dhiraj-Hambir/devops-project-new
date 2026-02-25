@@ -11,7 +11,7 @@ pipeline {
                 echo 'Running on Jenkins Master...'
                 // 'okok' folder create karel
                 sh 'mkdir -p okok' 
-                sh 'whoami'
+                
                
             }
         }
