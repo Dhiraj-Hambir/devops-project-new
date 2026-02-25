@@ -10,7 +10,7 @@ pipeline {
             steps {
                 echo 'Running on Jenkins Master...'
                 // 'okok' folder create karel
-                sh 'mkdir -p hiii' 
+                sh 'mkdir -p hii' 
                 
                
             }
